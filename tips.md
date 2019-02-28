@@ -31,7 +31,7 @@ gitk
 git config color.ui true
 ```
 Alexandra's Tips
-	*Prints out a graph log with a key
+* Prints out a graph of the logs
 ```$xslt
 git log --oneline --graph
 ```

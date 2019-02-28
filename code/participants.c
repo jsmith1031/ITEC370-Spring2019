@@ -38,6 +38,7 @@ main (int argc, char *argv[])
   printf ("%02d: Joe Semendinger\n", i++);
 =======
   printf ("%02d: Justin Scyphers\n", i++);
+  printf ("%02d: Austin Maiden\n", i++);
 >>>>>>> 35969fb44994ce9b922914607205d4e6bc01028e
   printf ("There are %i participants.\n", i);
 

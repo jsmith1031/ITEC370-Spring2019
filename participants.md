@@ -29,4 +29,4 @@ A list of participants in ITEC370
 <br/>Zeidan, Michael
 <br/>Anderson, Jamal
 <br/>Scyphers, Justin
-
+<br/> Laws, John

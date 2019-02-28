@@ -15,8 +15,13 @@ A list of participants in ITEC370
 <br/>Ierardi, Nolan
 <br/>Paterson, Ian
 <br/>Joe, Semendinger
+<<<<<<< HEAD
 <br/>Maiden, Austi
 <br/>McClure, Benjamin
+=======
+<br/>Largen, Alexandra
+<br/>Maiden, Austin
+>>>>>>> 0f98f9c1300cfaf71f62f087ef8a8056f859a6ba
 <br/>Sluder, Matthew
 <br/>Story, Nalani
 <br/>Whitteker, Donald

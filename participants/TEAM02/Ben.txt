@@ -1,7 +1,4 @@
-Git Username: BneMacclure
 Name: Benjamin McClure
-Hometown: Damascus, Virginia
-Favorite Food: Lasagna
-Fun fact: I work for Network Services on campus.
-I'm a CS:SE major and I love coding.
-Favorite language is Java 
+Email: bmcclure3@radford.edu
+GitHub: BneMacclure
+About Me: I work for Network Services on campus and love coding.

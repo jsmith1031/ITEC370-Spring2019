@@ -26,6 +26,7 @@ main (int argc, char *argv[])
   printf ("%02d: Matthew Sluder\n", ++i);
   printf ("%02d: Nalani Story\n", i++);
   printf ("%02d: Chase Kuehn\n", i++);
+  printf ("%02d: Benjamin McClure\n", i++);
   printf ("%02d: Kyle Van Sprewenburg\n", i++);
   printf ("%02d: Dalton Young\n", i++);
   printf ("%02d: Jamal Anderson\n",i++);

@@ -30,3 +30,4 @@ A list of participants in ITEC370
 <br/>Anderson, Jamal
 <br/>Scyphers, Justin
 <br/> Laws, John
+<br/> Smith, Jeffrey

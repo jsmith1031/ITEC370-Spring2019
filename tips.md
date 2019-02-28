@@ -30,4 +30,8 @@ gitk
  ```$xslt
 git config color.ui true
 ```
-
+Alexandra's Tips
+*Prints out a graph log with a key
+```$xslt
+git log --oneline --graph
+```

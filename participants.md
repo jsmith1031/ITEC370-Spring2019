@@ -11,6 +11,7 @@ A list of participants in ITEC370
 <br/>Kuehn, Chase
 <br/>Ierardi, Nolan
 <br/>Paterson, Ian
+<br/>Joe, Semendinger
 <br/>Sluder, Matthew
 <br/>Story, Nalani
 <br/>Whitteker, Donald

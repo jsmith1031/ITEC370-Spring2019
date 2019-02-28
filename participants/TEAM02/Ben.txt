@@ -1,0 +1,7 @@
+Git Username: BneMacclure
+Name: Benjamin McClure
+Hometown: Damascus, Virginia
+Favorite Food: Lasagna
+Fun fact: I work for Network Services on campus.
+I'm a CS:SE major and I love coding.
+Favorite language is Java 

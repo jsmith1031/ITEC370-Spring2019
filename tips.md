@@ -31,7 +31,7 @@ gitk
 git config color.ui true
 ```
 Alexandra's Tips
-* Prints out a graph of the logs
+* Prints out a graph of the logs that fits information on oneline
 ```$xslt
 git log --oneline --graph
 ```

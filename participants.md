@@ -8,11 +8,13 @@ A list of participants in ITEC370
 <br/>Rhine, Alexander
 <br/>Joswick, Zachary
 <br/>Donaldson, Michael
+<br/>Edamwen, Emmanuel
 <br/>Fuhrer, Caleb
 <br/>Kuehn, Chase
 <br/>Ierardi, Nolan
 <br/>Paterson, Ian
 <br/>Joe, Semendinger
+<br/>Maiden, Austin
 <br/>Sluder, Matthew
 <br/>Story, Nalani
 <br/>Whitteker, Donald
@@ -20,5 +22,4 @@ A list of participants in ITEC370
 <br/>Zeidan, Michael
 <br/>Anderson, Jamal
 <br/>Scyphers, Justin
-
 

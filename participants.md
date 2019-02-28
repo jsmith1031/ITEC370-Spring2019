@@ -15,6 +15,7 @@ A list of participants in ITEC370
 <br/>Ierardi, Nolan
 <br/>Paterson, Ian
 <br/>Joe, Semendinger
+<br/>Largen, Alexandra
 <br/>Maiden, Austin
 <br/>Sluder, Matthew
 <br/>Story, Nalani
